@@ -38,9 +38,10 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osmanncan&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osmanncan&layout=compact&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=osmanncan&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osmanncan&show_icons=true&hide_border=true&cache_seconds=86400&v=1)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osmanncan&layout=compact&hide_border=true&cache_seconds=86400&v=1)
+![Streak](https://streak-stats.demolab.com?user=osmanncan&hide_border=true&v=1)
+
 
 
 ---
