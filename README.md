@@ -1,16 +1,84 @@
-## Hi there 👋
+<!-- ========================= -->
+<!--  ⭐️ PROFILE README START  -->
+<!-- ========================= -->
 
-<!--
-**osmanncan/osmanncan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Osmancan 👋</h1>
+<p align="center">
+  <b>Frontend & Mobile Developer</b> • React / React Native / Expo • UI/UX focused
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/osmanncan">
+    <img src="https://img.shields.io/badge/GitHub-osmanncan-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/osmancan-altinkaynak">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:osmancann25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-osmancann25@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎯 I build **clean, fast, UI-focused** mobile & web products.
+- 📱 Main focus: **React Native (Expo)** & **React**
+- 🧠 Also using: **JavaScript, TypeScript (learning), Python, SQL**
+- 🧩 Interested in: animations, performance, design systems, product thinking
+- 🌍 Goal: **Remote work + global career**
+
+---
+
+## 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,python,mysql,git,github,vercel,figma" />
+</p>
+
+---
+
+## 📌 Featured Projects
+> I’m actively building products. Here are some highlights:
+
+### ⭐ İftaraKala – İmsakiye (Android)
+- Fast & practical Ramadan companion app (imsakiye + daily utility)
+- Tech: **React Native / Expo**
+- Link: <ADD_PLAY_STORE_LINK>
+
+### ⭐ HesapKutu (Web)
+- Multi-tool calculator website (KDV, QR, text tools and more)
+- Tech: **React / Web**
+- Link: <ADD_WEBSITE_LINK>
+
+### ⭐ OLVEIR (Brand / Agency)
+- Premium software & UI/UX focused tech brand
+- Link: <ADD_WEBSITE_LINK>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=osmanncan&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanncan&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=osmanncan&hide_border=true" />
+</p>
+
+---
+
+## 🧠 What I'm learning now
+- TypeScript fundamentals (strict typing, interfaces, generics)
+- Clean architecture in React Native projects
+- Backend basics (auth, database, API) to support mobile apps
+
+---
+
+## 📬 Contact
+- LinkedIn: https://www.linkedin.com/in/osmancan-altinkaynak
+- Email: osmancann25@gmail.com
+
+<!-- ======================= -->
+<!--  ⭐️ PROFILE README END  -->
+<!-- ======================= -->
