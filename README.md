@@ -32,27 +32,8 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,python,mysql,git,github,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,python,git,github,vercel,figma" />
 </p>
-
----
-
-## 📌 Featured Projects
-> I’m actively building products. Here are some highlights:
-
-### ⭐ İftaraKala – İmsakiye (Android)
-- Fast & practical Ramadan companion app (imsakiye + daily utility)
-- Tech: **React Native / Expo**
-- Link: <ADD_PLAY_STORE_LINK>
-
-### ⭐ HesapKutu (Web)
-- Multi-tool calculator website (KDV, QR, text tools and more)
-- Tech: **React / Web**
-- Link: <ADD_WEBSITE_LINK>
-
-### ⭐ OLVEIR (Brand / Agency)
-- Premium software & UI/UX focused tech brand
-- Link: <ADD_WEBSITE_LINK>
 
 ---
 
@@ -65,13 +46,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=osmanncan&hide_border=true" />
 </p>
-
----
-
-## 🧠 What I'm learning now
-- TypeScript fundamentals (strict typing, interfaces, generics)
-- Clean architecture in React Native projects
-- Backend basics (auth, database, API) to support mobile apps
 
 ---
 
