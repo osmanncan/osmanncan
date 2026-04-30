@@ -15,7 +15,7 @@
 
 ---
 
-## About Me
+## 👨💻 About Me
 
 I'm a mobile and frontend developer from Istanbul, focused on building fast, clean, and user-friendly apps. My main stack is **React Native (Expo)** and **React**, and I care deeply about smooth UX, real-world architecture, and writing code that actually ships.
 
@@ -27,79 +27,83 @@ I'm a mobile and frontend developer from Istanbul, focused on building fast, cle
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Mobile & Frontend**
-`React Native` `Expo` `React` `Next.js` `TypeScript` `JavaScript` `NativeWind`
+<div align="center">
 
-**Backend & Database**
-`Supabase` `PostgreSQL` `Deno Edge Functions` `Expo Router`
+#### Mobile & Frontend
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**State & Storage**
-`Zustand` `AsyncStorage` `React Navigation`
+#### Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno_Edge_Functions-000000?style=for-the-badge&logo=deno&logoColor=white)
 
-**Tools & Services**
-`RevenueCat` `Google Gemini AI` `Groq AI` `EAS Build` `Git`
+#### State Management & Tools
+![Zustand](https://img.shields.io/badge/Zustand-453B38?style=for-the-badge&logo=react&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F25C54?style=for-the-badge&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![EAS Build](https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white)
 
----
-
-## Projects
-
-### [Luxtra](https://github.com/osmanncan/Luxtra) — Personal Life Assistant App
-> React Native · Expo · TypeScript · Supabase · Zustand · Gemini AI · RevenueCat · NativeWind
-
-Your private life assistant. Manage finances, daily responsibilities, and AI-powered insights in one sleek app.
-
-- 💸 Expense tracking with analytics
-- 🤖 Gemini AI integration for personalized spending insights
-- 📆 Subscription & task management
-- 🌍 8+ language support
-- 🔒 Biometric security (FaceID & Fingerprint)
-- 🎨 Animated gradients, micro-interactions, achievement system
-- 💳 In-app purchases managed via **RevenueCat**
+</div>
 
 ---
 
-### [AURA — AI E-Commerce Platform](https://github.com/osmanncan/ai-ecommerce-platform) · [Live Demo ↗](https://aiecommerceplatformweb.vercel.app/)
-> Next.js · React Native · TypeScript · Supabase · Groq AI (Llama 3.3 70B) · pgvector
+## 📊 GitHub Stats
 
-AI-powered luxury fashion e-commerce platform. Two apps in one monorepo: a web store and a mobile admin panel.
+<div align="center">
 
-- 🤖 AI Stylist powered by Groq / Llama 3.3 70B
-- 🔍 Vector similarity search with pgvector for AI product matching
-- 📱 Mobile admin panel (React Native Expo) for order & product management
-- 🌐 Multi-language (TR/EN), Dark/Light mode, Supabase Auth
-- 🔒 Row Level Security (RLS) on all tables, API keys server-side only
+<img src="https://github-readme-stats.vercel.app/api?username=osmanncan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6E57FF&icon_color=6E57FF&text_color=C9D1D9&ring_color=6E57FF" alt="GitHub Stats" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osmanncan&hide_border=true&background=0D1117&ring=6E57FF&fire=6E57FF&currStreakLabel=6E57FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" height="180"/>
 
----
+<br/><br/>
 
-### [İftara Kala](https://github.com/osmanncan/iftarakala-app) — Ramadan & Prayer Times App ⭐
-> React Native · Expo · JavaScript · EAS Build
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanncan&layout=compact&hide_border=true&bg_color=0D1117&title_color=6E57FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
 
-A complete Ramadan companion app: prayer times, iftar/sahur countdown, digital tasbih, Islamic calendar.
-
-- 📍 GPS-based automatic city detection & prayer time calculation
-- 📅 Full Ramadan calendar with sahur/iftar times
-- 📿 Digital tasbih counter
-- 🎨 Gradient UI with smooth animations
-- 🚀 Published on Google Play Store
+</div>
 
 ---
 
-### Earlier Work
+## 🏆 Trophies
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [To-Do-List React Native](https://github.com/osmanncan/To-Do-List-React-Native-) | React Native, JS | Mobile todo app |
-| [ToDoList React](https://github.com/osmanncan/ToDoList-React-) | React, JS | Web todo app |
-| [Portfolyo](https://github.com/osmanncan/Portfolyo) | HTML, CSS | Personal portfolio site |
-| [HesapMakinesi](https://github.com/osmanncan/HesapMakinesi) | HTML, CSS | Calculator |
-| [TasKagitMakasOyunu](https://github.com/osmanncan/TasKagitMakasOyunu) | HTML | Rock-paper-scissors game |
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=osmanncan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
-## Contact
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmanncan/osmanncan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osmanncan/osmanncan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/osmanncan/osmanncan/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📬 Contact
 
 Open to **remote**, **freelance**, and interesting mobile/full-stack opportunities.
 
-📧 [osmancann25@gmail.com](mailto:osmancann25@gmail.com) · 💼 [linkedin.com/in/osmancan-altinkaynak](https://www.linkedin.com/in/osmancan-altinkaynak)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/osmancann25@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmancann25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/osmancan--altinkaynak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmancan-altinkaynak)
+
+</div>
