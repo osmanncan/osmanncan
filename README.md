@@ -57,32 +57,6 @@ I'm a mobile and frontend developer from Istanbul, focused on building fast, cle
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=osmanncan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6E57FF&icon_color=6E57FF&text_color=C9D1D9&ring_color=6E57FF" alt="GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osmanncan&hide_border=true&background=0D1117&ring=6E57FF&fire=6E57FF&currStreakLabel=6E57FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanncan&layout=compact&hide_border=true&bg_color=0D1117&title_color=6E57FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=osmanncan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
