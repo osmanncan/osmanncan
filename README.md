@@ -4,7 +4,7 @@
 
 <br/>
 
-**Mobile Developer · Istanbul, Turkey 🇹🇷**
+**Full Stack Developer · Istanbul, Turkey 🇹🇷**
 
 <br/>
 
